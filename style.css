@@ -1,0 +1,22 @@
+
+.cor-titulo{
+    color:rgb(82, 1, 243);
+}
+
+.espaço{
+    padding: 30px;
+}
+
+.borda_cor_especial{
+    border-color: rgb(187, 4, 19);
+}
+.imagem_card{
+    object-fit: cover;
+   /* object-position: 0 80%;*/
+    height: 200px;
+}
+
+.botao{
+    color: white;
+    background-color: darkred;
+}
